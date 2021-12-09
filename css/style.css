@@ -229,7 +229,8 @@ p {
   }
   
   [type="submit"] {
-    width: 50%;
+    width: 30%;
+    font-size: 1.4rem;
     background: rgba(120, 253, 102, 0.767);   
     border:0;
     cursor:pointer;
